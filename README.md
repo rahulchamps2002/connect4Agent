@@ -1,6 +1,4 @@
-# Team ___ Connect 4 Agent
-# pikachu-
-AI 156 group project
+# Team 2 Connect 4 Agent
 
 ## Project Details
 ### Search Algorithm: Monte Carlo Tree Search
